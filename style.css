@@ -31,6 +31,7 @@
     position: absolute;
     background-color: #444;
     min-width: 300px;
+    min-height: 400px;
 }
 
 .submenu-list li {
@@ -40,6 +41,7 @@
 
 .submenu-list li a {
     color: white;
+    border-bottom:none;
 }
 
 .submenu-list li a:hover {
