@@ -30,8 +30,8 @@
     display: none;
     position: absolute;
     background-color: #444;
-    min-width: 300px;
-    min-height: 400px;
+    min-width: 250px;
+    min-height: 300px;
 }
 
 .submenu-list li {
